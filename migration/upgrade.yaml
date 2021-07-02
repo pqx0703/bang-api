@@ -71,10 +71,10 @@ versions:
     name: P1036
     run_command_params: {}
   - migration_type: new
-    name: P4020
+    name: P4017
     run_command_params: {}
   - migration_type: new
-    name: P4017
+    name: P4020
     run_command_params: {}
   - migration_type: new
     name: P3024
