@@ -50,3 +50,18 @@ versions:
     name: P4020
     run_command_params: {}
   version: 3.0.2
+- config_params: []
+  features:
+  - migration_type: new
+    name: P4020
+    run_command_params: {}
+  - migration_type: new
+    name: P1036
+    run_command_params: {}
+  - migration_type: new
+    name: P4017
+    run_command_params: {}
+  - migration_type: new
+    name: P3024
+    run_command_params: {}
+  version: 3.0.3
