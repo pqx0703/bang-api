@@ -68,3 +68,6 @@ versions:
 - config_params: []
   features: []
   version: 3.0.4
+- config_params: []
+  features: []
+  version: 3.0.5
