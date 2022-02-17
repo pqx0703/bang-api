@@ -83,3 +83,9 @@ versions:
     name: P3024
     run_command_params: {}
   version: 3.0.5
+- config_params: []
+  features:
+  - migration_type: new
+    name: P1001
+    run_command_params: {}
+  version: 2.3.2
